@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/Laura-Faria">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laura-Faria&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura- Faria&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura- Faria&layout=compact&langs_count=6&theme=merko"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
 
